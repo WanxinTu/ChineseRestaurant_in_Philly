@@ -1,8 +1,8 @@
-Group members: Yeming WEI; Wanxin TU
+Final Project, Stat 628 , 2023 Fall
 
-This code is for Yelp project, Module3, Stat 628 , 2023 Fall.
+Group members: Yeming WEI; Wanxin TU, Yuman WU
 
 Shiny app: https://nicoletu.shinyapps.io/shiny_all/
 
-code:
+main code:
 cpde/shiny_all/app.R: Main code for Shiny application.
