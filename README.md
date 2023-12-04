@@ -5,4 +5,4 @@ Group members: Yeming WEI; Wanxin TU, Yuman WU
 Shiny app: https://nicoletu.shinyapps.io/shiny_all/
 
 main code:
-cpde/shiny_all/app.R: Main code for Shiny application.
+code/shiny_all/app.R: Main code for Shiny application.
